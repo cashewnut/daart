@@ -1,0 +1,38 @@
+[
+  {
+    "strategies": [
+      {
+        "contents": ["        jComponent.enable(true);"],
+        "confidence": 3
+      },
+      {
+        "contents": ["        jComponent.setEnabled(true);"],
+        "confidence": 5
+      }
+    ]
+  },
+  {
+    "strategies": [
+      {
+        "contents": ["        jComponent.enable(false);"],
+        "confidence": 3
+      },
+      {
+        "contents": ["        jComponent.setEnabled(false);"],
+        "confidence": 5
+      }
+    ]
+  },
+  {
+    "strategies": [
+      {
+        "contents": ["        jComponent.show(false);"],
+        "confidence": 3
+      },
+      {
+        "contents": ["        jComponent.setVisible(false);"],
+        "confidence": 5
+      }
+    ]
+  }
+]

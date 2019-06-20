@@ -1,0 +1,35 @@
+[
+  {
+    "content": "import javax.swing.*;"
+  },
+  {
+    "content": ""
+  },
+  {
+    "content": "public class ExampleA {"
+  },
+  {
+    "content": "    public void testMethod() {"
+  },
+  {
+    "content": "        JComponent jComponent = new JTextArea();"
+  },
+  {
+    "content": "        jComponent.enable();",
+    "index":{"end":19,"start":25}
+  },
+  {
+    "content": "        jComponent.disable();",
+    "index":{"end":19,"start":26}
+  },
+  {
+    "content": "        jComponent.hide();",
+    "index":{"end":19,"start":23}
+  },
+  {
+    "content": "    }"
+  },
+  {
+    "content": "}"
+  }
+]
